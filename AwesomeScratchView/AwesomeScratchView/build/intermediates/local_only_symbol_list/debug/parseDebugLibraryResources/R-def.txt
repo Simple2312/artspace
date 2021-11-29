@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+color scratch_end_gradient
+color scratch_start_gradient
+color textColor
+drawable ic_scratch_pattern
+string app_name
+style TextAppearance
+style TextAppearanceDate

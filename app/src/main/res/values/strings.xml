@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Artspace</string>
+    <string name="text">Thought of the day</string>
+    <string name="app_name1">DailyThoughtScratchViewDemo</string>
+    <string name="scratch_text_view_demo">Scratch Text View Demo</string>
+    <string name="scratch_image_view_demo">Scratch Image View Demo</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="external_storage">This app needs access to your storage so you can save your drawing.</string>
+    <string name="storage">Storage</string>
+</resources>

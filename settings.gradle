@@ -1,0 +1,4 @@
+include ':AwesomeScratchView:mylibrary'
+include ':AwesomeScratchView'
+include ':app'
+rootProject.name = "Artspace"
